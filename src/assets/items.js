@@ -19,13 +19,13 @@ const items = [{
     "title": "GitHub",
     "subtitle": "@faderzz - Find my projects here.",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/faderzz" //Github Profile link
 },
 {
     "title": "Instagram",
     "subtitle": "@_faderz - I share my exclusive work here. 🙈",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/_faderz" //instagram profile link 
 },
 {
     "title": "Behance",
