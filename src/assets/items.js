@@ -7,6 +7,7 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import behance from '../assets/behance-3-logo-png-transparent.png'
+import discord from '../assets/discord.jpg'
 
 const items = [{
     "title": "YouTube",
@@ -29,8 +30,8 @@ const items = [{
 {
     "title": "Behance",
     "subtitle": "My portfolio containing my past work!",
-    "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
+    "image": behance,
+    "link": "https://behance.net/faderz"// twitter profile link 
 },
 {
     "title": "Discord",
